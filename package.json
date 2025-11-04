@@ -1,0 +1,26 @@
+{
+  "name": "ghosty-music-selfbot",
+  "version": "5.0.0",
+  "description": "GhoSty Music Selfbot V5 with advanced audio filters and autoplay",
+  "main": "index.js",
+  "author": "GhoSty",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/WannaBeGhoSt"
+  },
+  "support": {
+    "discord": "https://discord.gg/SyMJymrV8x"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js-selfbot-v13": "^2.14.9",
+    "kazagumo": "^2.3.2",
+    "shoukaku": "^3.4.0",
+    "axios": "^1.6.0"
+  },
+  "engines": {
+    "node": ">=16.x"
+  }
+}
